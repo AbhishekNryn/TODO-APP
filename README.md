@@ -1,4 +1,4 @@
-  # Todo App
+# Todo App
 
 A simple Todo application using the PERN stack (Postgres, Express, React, Node) that allows users to add, edit, delete, and update their daily tasks.
 
